@@ -62,3 +62,10 @@ In addition, never perform songs of excessive length as the intent for mockery m
 The World's Smallest Violin is played like a traditional violin, however the tuning peg, nut, neck, fingerboard, chin rest, bridge, sound board and body frame are simply your thumb. Also unlike a traditional violin, the bow is your index finger.
 
 The World's Smallest Violin is always tuned so that it plays the saddest of songs. If The World's Smallest Violin does not play the saddest of songs, it may be sent back to the manufacturer, however service charges incurred due to a lack of knowledge relating to how a function works are not covered by the manufacturer's warranty.
+
+## Editorial Questions
+
+1. What do you enjoy about the current text?
+2. What do you want to have more of?
+3. How can the written 'corporate voices' be more distinct from each other?
+4. Where can you play with the 1,2,3 comic structure/rhythm of setup, punchline, pay-off?
